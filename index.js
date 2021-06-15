@@ -14,9 +14,9 @@ const app2 = new Vue({
     costOfBananas: 2,
     costOfCoconuts: 8,
     hours: {
-        openHoursWeek: '1h',
-        openHoursSaturday: '2h - 3h',
-        openHoursSunday: '3h'
+        openHoursWeek: '9h - 17h',
+        openHoursSaturday: '9h30 - 18h30',
+        openHoursSunday: '10h - 16h'
     }
   },
   computed: {
